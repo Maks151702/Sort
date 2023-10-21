@@ -2,6 +2,7 @@ package CountingSort;
 
 public class CountingSort {
 
+
     public static void main(String[] args) {
         int[] arr = {4, 2, 2, 8, 3, 3, 1};
 
